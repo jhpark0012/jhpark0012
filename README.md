@@ -1,9 +1,10 @@
 # JaeHyun Park    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mindorizip.tistory.com/(https://blog.naver.com/jhpark0012))](https://blog.naver.com/jhpark0012)
 
+
 <p>
-  
+  <em>
       A Data Scientist with a Logic and Grit
-  
+  </em>
 <p>
 
 
