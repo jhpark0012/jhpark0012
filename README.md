@@ -1,5 +1,4 @@
-<h1 align="center"> JaeHyun Park </h1>
-
+# JaeHyun Park 
 <p>
   <em>
       A Data Scientist with a Logic and Grit
