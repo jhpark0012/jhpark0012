@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm JaeHyun Park</h1>
-<h3 align="center">A Data Scientist with Logic and Grit</h3>
+# JaeHyun Park  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mindorizip.tistory.com/(https://blog.naver.com/jhpark0012))](https://blog.naver.com/jhpark0012)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p>
+  <em>
+      A Data Scientist with a Logic and Grit
+  </em>
+<p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Education
+- **고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과** *(2019.03. ~ )*
+
+
+## Teaching Experience
+| Period | Name | Teaching | Award | Institution |
+|:---:|:---:|:---:|:---:|:---:|
+| 19.09 ~ 19.12 | KUS-TUDY 스터디 그룹 | 컴퓨터 언어 II & 일반 미적분학 및 연습 | 우수상 | 고려대학교 세종교육혁신원 교수학습정보센터 |
+| 23.03 ~ 23.06 | KUS-Tutoring 튜터링 | 확률및통계 | 대상 | 고려대학교 세종교육혁신원 교수학습정보센터 |
+| 23.06 ~ 23.08 | T-SUM 멘토 | 파이썬 | - | 고려대학교 산학교육센터 |
+| 23.09 ~ 23.12 | 디지털 리터리시(Digital Literacy) 튜터 | 디지털 리터리시 | - | 고려대학교 세종교약교육원 |
+
+
+
+## Contact
+- Email: jhpark001229@gmail.com
