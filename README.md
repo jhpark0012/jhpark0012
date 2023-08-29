@@ -7,7 +7,7 @@
 <p>
 
 
-<h3>🛠 Tech Skills</h3>
+<h3> 🛠 Tech Skills</h3>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">   
@@ -17,12 +17,12 @@
 </div>
 
 
-## Education
+## 🧑‍🎓 Education
 - **고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과** *(2019.03. ~ )*
 
 
 
-## Teaching Experience
+## 🧑‍🏫 Teaching Experience
 | Period | Name | Teaching | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
 | 23.09 ~ 23.12 | 디지털 리터리시(Digital Literacy) 튜터 | 디지털 리터리시 | - | 고려대학교 세종교약교육원 |
@@ -31,5 +31,5 @@
 | 19.09 ~ 19.12 | KUS-TUDY 스터디 그룹 | 컴퓨터 언어 II & 일반 미적분학 및 연습 | 우수상 | 고려대학교 세종교육혁신원 교수학습정보센터 |
 
 
-## Contact
+## ✉️ Contact
 - Email: jhpark001229@gmail.com
