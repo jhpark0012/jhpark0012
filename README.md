@@ -1,9 +1,7 @@
 # JaeHyun Park 
-<p>
-  <em>
-      A Data Scientist with a Logic and Grit
-  </em>
-<p>
+
+### *A Data Scientist with a Logic and Grit*
+
 
 
 <h3> 🛠 Tech Skills</h3>
