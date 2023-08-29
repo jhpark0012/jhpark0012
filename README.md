@@ -6,7 +6,7 @@
 <p>
 
 
-<h3> 🛠 Tech Skills</h3>
+## 🛠 Tech Skills
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">   
