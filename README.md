@@ -1,5 +1,4 @@
-# JaeHyun Park    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mindorizip.tistory.com/(https://blog.naver.com/jhpark0012))](https://blog.naver.com/jhpark0012)
-
+# JaeHyun Park    
 
 <p>
   <em>
@@ -34,3 +33,4 @@
 
 ## ✉️ Contact
 - Email: jhpark001229@gmail.com
+- Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://mindorizip.tistory.com/(https://blog.naver.com/jhpark0012))](https://blog.naver.com/jhpark0012)
