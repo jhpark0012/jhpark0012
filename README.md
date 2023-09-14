@@ -20,7 +20,7 @@
 ## 🏆 Awards
 | Period | Name | About | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
-| 22.03.01 ~ 23.06.13 | 23-1 산학협력친화형 PBL l | LG Brizz 수면 데이터를 통해 </br> 각성과 수면 단계 분류  | [금상](https://ioec.korea.ac.kr/) | 고려대학교 세종캠퍼스 산학교육센터 |
+| 22.03.01 ~ 23.06.13 | 23-1 산학협력친화형 PBL l | LG 수면 데이터를 통해 </br> 각성과 수면 단계 분류  | [금상](https://ioec.korea.ac.kr/) | 고려대학교 세종캠퍼스 산학교육센터 |
 
 
 ## 🧑‍🏫 Teaching Experience
