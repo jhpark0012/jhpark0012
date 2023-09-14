@@ -32,6 +32,8 @@
 | 19.09.30 ~ 19.12.13 | KUS-TUDY 스터디 그룹 팀장| 컴퓨터 언어 II & </br> 일반 미적분학 및 연습 | 우수상 | 고려대학교 세종교육혁신원 </br> 교수학습정보센터 |
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piesun)](https://solved.ac/piesun/)
+
 ## ✉️ Contact
 - Email: jhpark001229@gmail.com
 - Blog : [MPL](https://blog.naver.com/jhpark0012)
