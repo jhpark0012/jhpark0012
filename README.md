@@ -18,9 +18,9 @@
 - **고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과** *(19.03.01 ~ 25.02)*
 
 ## 🏆 Awards
-| Period | Name |  Award | Institution | About |
+| Period | Name | About | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
-| 22.03.01 ~ 23.06.13 | 기업기술혁신 PBL I | LG Brizz 수면 데이터를 통해 </br> 각성과 수면 단계 분류  | [금상](https://ioec.korea.ac.kr/) | 고려대학교 세종캠퍼스 산학교육센터 |
+| 22.03.01 ~ 23.06.13 | 23-1 산학협력친화형 PBL l | 생체 신호를 LG Brizz 수면 데이터를 통해 </br> 각성과 수면 단계 분류  | [금상](https://ioec.korea.ac.kr/) | 고려대학교 세종캠퍼스 산학교육센터 |
 
 
 ## 🧑‍🏫 Teaching Experience
