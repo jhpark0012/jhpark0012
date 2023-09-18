@@ -26,6 +26,7 @@
 ## 🧑‍🏫 Teaching Experience
 | Period | Name | Teaching | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
+| 23.09.18 ~ 23.12.10 | KUS-Tutoring 튜터링 튜터 | 빅데이터 개론 | - | 고려대학교 세종교육혁신원 </br> 교수학습정보센터 |
 | 23.09.01 ~ 23.12.21 | Digital Literacy 멘토 | Digital Literacy | - | 고려대학교 세종교양교육원 |
 | 23.06.02 ~ 23.08.21 | T-SUM 멘토 | 파이썬 | - | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
 | 23.03.27 ~ 23.06.15 | KUS-Tutoring 튜터링 튜터| 확률 및 통계 | 대상 | 고려대학교 세종교육혁신원 </br> 교수학습정보센터 |
