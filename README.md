@@ -7,7 +7,7 @@
 <h3> 🛠 Tech Skills</h3>
 <div> 
 
-<h2> Programming Language </h2>
+<div> Programming Language </div>
   
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">   
