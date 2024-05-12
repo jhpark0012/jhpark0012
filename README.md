@@ -44,5 +44,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piesun)](https://solved.ac/piesun/)
 
 ## ✉️ Contact
-- Email: jhpark001229@gmail.com
+- Email: lookforward12@korea.ac.kr / jhpark0012@naver.com
 - Blog : [MPL](https://blog.naver.com/jhpark0012)
