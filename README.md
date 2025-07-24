@@ -20,8 +20,12 @@
 
 
 ## 🧑‍🎓 Education
-- **한양대학교 산업데이터엔지니어링학과** *(25.03. ~ 27.02.)*
-- **고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과** *(19.03. ~ 25.02.)*
+- **Hanyang University, Seoul**
+  M.S., Department of Industrial Data Engineering	(2025.03 - 2027.02)
+
+- **Korea University, Sejong**
+  B.S., Department of Computer Convergence Software	(2019.03 - 2025.02)
+
 
 ## 🏆 Awards
 | Period | Name | About | Award | Institution |
