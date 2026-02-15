@@ -30,7 +30,7 @@
   - M.S., Department of Industrial Data Engineering (2025.03 ~ )
 
 - **Korea University, Sejong**
-  - B.S., Department of Computer Con
+  - B.S., Department of Computer Convergence Software (2019.03 ~ 2025.02)
 
 </details>
  
