@@ -30,6 +30,7 @@
  
 <details open>
 <summary><h2>🏆 Awards</h2></summary>
+  
 | Year | Name | About | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
 | 2025 | 첨단제조산학협력 </br> 프로젝트경진대회 | LLM 기반 도메인 문서 </br> 자동 작성 Chatbot | 장려상 🥉 | 한양대학교 |
