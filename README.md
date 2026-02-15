@@ -71,5 +71,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=piesun)](https://solved.ac/piesun/)
 
 ## ✉️ Contact
-- Email: jhpark0012@hanyang.ac.kr / jhpark0012@naver.com
+- Email: jhpark0012@hanyang.ac.kr / jhpark001229@gmail.com / jhpark0012@naver.com
+- LinkedIn : www.linkedin.com/in/jhpark0012
 - Blog : [MPL](https://blog.naver.com/jhpark0012)
