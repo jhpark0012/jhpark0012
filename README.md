@@ -27,11 +27,12 @@
 - **Korea University, Sejong**
 
     - B.S., Department of Computer Convergence Software	(2019.03 ~ 2025.02)
-
+ 
 
 ## 🏆 Awards
 | Period | Name | About | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
+| 23.11.27 ~ 24.02.01 | T-SUM 데이터분석/인공지능 경진대회 | 에코 마일리지 집중 홍보 필요 지역 탐색 </br> 데이터 시각화를 통한 에너지 절약의 첫걸음  | 대상 🥇 | 고려대학교 세종캠퍼스 산학교육센터 |
 | 23.03.01 ~ 23.06.13 | 23-1 산학협력친화형 PBL l | 생체신호 기반 </br> AI 디지털 헬스 케어  | 금상 🥈 | 고려대학교 세종캠퍼스 산학교육센터 |
 
 
