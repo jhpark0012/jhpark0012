@@ -32,7 +32,7 @@
 ## 🏆 Awards
 | Period | Name | About | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
-| 24.03.02 ~ 24.12.04 | 캡스톤 디자인 II | 모해먹지: </br> Explainable Recipes </br> Recommendation System </br> using Knowledge Graph | 1위 🥇 | 고려대학교 세종캠퍼스 </br> 컴퓨터융합소프트웨어학과 |
+| 24.03.02 ~ 24.12.04 | 캡스톤 디자인 II | 모해먹지: Explainable Recipes </br> Recommendation System </br> using Knowledge Graph | 1위 🥇 | 고려대학교 세종캠퍼스 </br> 컴퓨터융합 </br> 소프트웨어학과 |
 | 24.04.02 ~ 24.06.03 | T-SUM 데이터분석/인공지능 경진대회 | 개인 맞춤형 </br> 비만 예측 모델 | 최우수상 🥈 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
 | 23.11.27 ~ 24.02.01 | T-SUM 데이터분석/인공지능 경진대회 | 에코 마일리지 집중 홍보 </br> 필요 지역 탐색 | 대상 🥇 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
 | 23.03.02 ~ 23.06.13 | 23-1 산학협력친화형 PBL l | 생체신호 기반 </br> AI 디지털 헬스 케어 | 금상 🥈 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
