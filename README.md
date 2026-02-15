@@ -32,8 +32,8 @@
 ## 🏆 Awards
 | Year | Name | About | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
-| 2025 | 첨단제조산학협력 </br> 프로젝트경진대회 | LLM 기반 도메인 문서 자동 작성 Chatbot | 장려상 🥉 | 한양대학교 |
-| 2025 | IC-PBL+ </br> Graduate Championship | 생성형 정제를 통한 차량 Dent 결함 검출 고도화 | 장려상 🥉 | 한양대학교 AI융합교수학습팀 |
+| 2025 | 첨단제조산학협력 </br> 프로젝트경진대회 | LLM 기반 도메인 문서 </br> 자동 작성 Chatbot | 장려상 🥉 | 한양대학교 |
+| 2025 | IC-PBL+ </br> Graduate Championship | 생성형 정제를 통한 </br> 차량 Dent 결함 검출 고도화 | 장려상 🥉 | 한양대학교 </br> AI융합교수학습팀 |
 | 2024 | 캡스톤 디자인 II | 모해먹지: Explainable </br> Recipes Recommendation System </br> using Knowledge Graph | 장려상 🥉 | 고려대학교 세종캠퍼스 |
 | 2024 | 캡스톤 디자인 II | 모해먹지: Explainable </br> Recipes Recommendation System </br> using Knowledge Graph | 대상 🥇 | 고려대학교 세종캠퍼스 </br> 컴퓨터융합 </br> 소프트웨어학과 |
 | 2024 | T-SUM 데이터분석/인공지능 경진대회 | 개인 맞춤형 </br> 비만 예측 모델 | 최우수상 🥈 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
