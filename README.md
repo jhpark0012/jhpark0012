@@ -53,7 +53,7 @@
 <summary><h2>🧑‍🏫 Teaching Experience</h2></summary>
 
 ### Mentoring
-| Year | Name | Teaching | Award | Institution |
+| Semester | Name | Teaching | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
 | 2024-1 | T-SUM 멘토 | 머신러닝 | 최우수상 🥈 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
 | 2023-2 | T-SUM 멘토 | 데이터 분석 | 대상 🥇 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
@@ -63,7 +63,7 @@
 | 2019-1 | KUS-TUDY 스터디 그룹 팀장| 컴퓨터 언어 II & </br> 일반 미적분학 및 연습 | 우수상 🥈 | 고려대학교 세종교육혁신원 </br> 교수학습정보센터 |
 
 ## Teaching Assistant
-| Year | Name | Institution |
+| Semester | Name | Institution |
 |:---:|:---:|:---:|
 | 2025-2 | 공급망관리 | 한양대학교 산업융합학부 |
 | 2025-1 | 경제성공학론 | 한양대학교 산업융합학부 |
