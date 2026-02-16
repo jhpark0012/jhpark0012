@@ -53,7 +53,7 @@
 <summary><h2>🧑‍🏫 Teaching Experience</h2></summary>
 
 ### Mentoring
-| Semester | Name | Teaching | Award | Institution |
+| Semester | Name | Name | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
 | 2024-1 | T-SUM 멘토 | 머신러닝 | 최우수상 🥈 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
 | 2023-2 | T-SUM 멘토 | 데이터 분석 | 대상 🥇 | 고려대학교 세종캠퍼스 </br> 산학교육센터 |
