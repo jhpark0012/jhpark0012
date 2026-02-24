@@ -37,7 +37,7 @@
 <details open>
 <summary><h2>🏆 Awards</h2></summary>
   
-| Date | Name | About | Award | Institution |
+| Date | Name | Title | Award | Institution |
 |:---:|:---:|:---:|:---:|:---:|
 | 2026.01.27 | IC-PBL+ </br> Graduate Championship | 생성형 정제를 통한 </br> 차량 Dent 결함 검출 고도화 | 장려상 🥉 | 한양대학교 </br> AI융합교수학습팀 |
 | 2025.12.19 | 첨단제조산학협력 </br> 프로젝트경진대회 | LLM 기반 도메인 문서 </br> 자동 작성 Chatbot | 장려상 🥉 | 한양대학교 총장상 |
