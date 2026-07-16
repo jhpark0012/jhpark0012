@@ -1,6 +1,6 @@
-# Recommend a Data Scientist : JaeHyun Park 
+# Recommend a ML Engineer : JaeHyun Park 
 
-### *A Data Scientist with a Logic and Grit*
+### *A ML Engineer with a Logic and Grit*
 
 
 
